@@ -1,0 +1,9 @@
+#Names, IDs and priorities of all the Nodes in the Graph -- > FORMAT - <INSTITUTION NAME><SPACE><INSTITUTION ID><SPACE><INSTITUTION PRIORITY><\n>
+DISCOM1 0 10
+DISCOM2 1 10
+School 2 2
+Houses 3 5
+Transportation 4 6
+Municipality 5 7
+Hospitals 6 8
+Industries 7 4
